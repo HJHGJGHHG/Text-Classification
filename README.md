@@ -26,6 +26,8 @@
 * **深度学习模型**
   * **TextCNN**
   * **BiLSTM**
+  * **BiGRU**
+  * **FastText**
   * **BERT**
 
 ## 模型评价 (ACC & F1)
