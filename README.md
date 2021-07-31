@@ -25,10 +25,10 @@
   * **逻辑回归**
 * **深度学习模型**
   * **TextCNN**
-  * **BiLSTM**
-  * **BiGRU**
+  * **BiLSTM & BiGRU**
   * **FastText**
   * **BERT**
+  * **ERNIE**
 
 ## 模型评价 (ACC & F1)
 <center><img src="D:\python\pyprojects\NLP\Text Classification\pics\机器学习模型情感分类ACC值.png"  style="zoom:30%;" width="70%"/></center>
