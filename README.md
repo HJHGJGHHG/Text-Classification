@@ -35,20 +35,20 @@
 ---
 
 ## 一、机器学习模型
-<center><img src="D:\python\pyprojects\NLP\Text Classification\pics\机器学习模型情感分类ACC值.png"  style="zoom:30%;" width="70%"/></center>
+<center><img src="https://github.com/HJHGJGHHG/Text-Classification/blob/main/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E6%83%85%E6%84%9F%E5%88%86%E7%B1%BBACC%E5%80%BC.png"  style="zoom:30%;" width="70%"/></center>
 <center>图 1 机器学习模型情感分类ACC值</center>
 
 
-<center><img src="D:\python\pyprojects\NLP\Text Classification\pics\机器学习模型情感分类F1值.png"  style="zoom:30%;" width="70%"/></center>
+<center><img src="https://github.com/HJHGJGHHG/Text-Classification/blob/main/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E6%83%85%E6%84%9F%E5%88%86%E7%B1%BBF1%E5%80%BC.png"  style="zoom:30%;" width="70%"/></center>
 <center>图 2 机器学习模型情感分类F1值</center>
 
 
 
-<center><img src="D:\python\pyprojects\NLP\Text Classification\pics\机器学习模型文本分类ACC值.png"  style="zoom:30%;" width="70%"/></center>
+<center><img src="https://github.com/HJHGJGHHG/Text-Classification/blob/main/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BBACC%E5%80%BC.png"  style="zoom:30%;" width="70%"/></center>
 <center>图 3 机器学习模型情感分类ACC值</center><center><img 
 
 
-<center><img src="D:\python\pyprojects\NLP\Text Classification\pics\机器学习模型文本分类F1值.png"  style="zoom:30%;" width="70%"/></center>
+<center><img src="https://github.com/HJHGJGHHG/Text-Classification/blob/main/pics/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BBF1%E5%80%BC.png"  style="zoom:30%;" width="70%"/></center>
 <center>图 4 机器学习模型情感分类F1值</center><center><img 
 
 ---
